@@ -1,5 +1,5 @@
-Quick Start with Next.js, Tailwind CSS, and Builder.io
-![image](https://github.com/Soham57/builder-app/assets/42260390/81b284f6-ba38-446f-bce4-039de035ebc0)
+!Quick Start with Next.js, Tailwind CSS, and Builder.io
+[image](https://github.com/Soham57/builder-app/assets/42260390/81b284f6-ba38-446f-bce4-039de035ebc0)
 
 A **10-minute** guide that will help you quickly ramp up and start building, managing, and publishing web pages while leveraging Next.js and Tailwind CSS with minimal development experience.
 
